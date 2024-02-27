@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# **초딩 입맛**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+치즈 듬뿍 대왕피자
+도시락 단골메뉴 소세지볶음
+퐁실퐁실 슈크림빵
+남녀노소 안가리는 돈까스
+당근,오이,시금치 뺀 김밥 - 출처 : 오늘의 요리
+휴게소 필수템 소떡소떡
+한 입 가득 햄버거
 
-## Available Scripts
+# **베어그릴스 입맛**
 
-In the project directory, you can run:
+냄새를 참고 먹어라! 취두부
+호불호 대표음식 생간/천엽
 
-### `npm start`
+# **할미맛**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+조선시대 약과,
+쑥떡먹는 쑥 라떼,
+임자만난 흑임자,
+뻥이요뻥 뻥튀기,
+콩가루 속 인절미,
+건강 쌍화차
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# **MZ맛**
 
-### `npm test`
+화끈 마라마라탕,
+와삭 과당탕후루,
+크림 왕창 와이대빵빵,
+맵찔이 감당불가 떡볶이,
+뿌링클링클 호떡,
+해외파아닌한국파 베이글,
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# **아재입맛**
 
-### `npm run build`
+막걸리엔 ‘해물파전 ‘
+깍두기와 ‘설렁탕‘
+징그러워 꼼장어
+코뚫리는 홍어
+얼큰한 내장탕
+꼬들꼬들 돼지껍데기
+냄세나는 청국장
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# **헬창입맛**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+부드러운 연어 샐러드
+단백질의 훈제 닭가슴살
+단백질의 닭가슴살 샐러드
