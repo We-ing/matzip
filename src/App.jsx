@@ -1,10 +1,16 @@
 import React from "react";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Main from "./pages/Main";
+import Worldcup from "./pages/Worldcup";
 
 function App() {
   return (
-    <div className="bg-red-400 h-screen">
-      <div className="font-bold">test</div>
-    </div>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Main />} />
+        <Route path="/worldcup" element={<Worldcup />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 
