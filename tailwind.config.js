@@ -3,8 +3,14 @@ module.exports = {
   content: ["./src/**/*.{html,js,jsx,ts}"],
   theme: {
     extend: {
+      spacing: {
+        // w-360 h-800
+        360: "22.5rem",
+        800: "50rem",
+      },
       backgroundImage: {
-        background: "url('../public/images/logo192.png')",
+        // bg-InGame
+        InGame: "url('../public/images/BackgroundImg/bgImg.png')",
       },
     },
   },
