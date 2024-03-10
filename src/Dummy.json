@@ -1,0 +1,50 @@
+[
+  {
+    "flavorId": "1",
+    "flavor": "#초딩입맛",
+    "description": "당신은 초딩?! 단순 음식들을 좋아하는 사람들의 모임",
+    "goodCombi": "#MZ입맛 #할미입맛",
+    "badCombi": "아재입맛 #헬창입맛",
+    "images": "피자"
+  },
+  {
+    "flavorId": "2",
+    "flavor": "#아재입맛",
+    "description": "국밥, 제육, 백반 없이는 못사는 사람들의 집합체!",
+    "goodCombi": "#헬창입맛 #할미입맛",
+    "badCombi": "초딩입맛 #MZ입맛",
+    "images": "돈까스"
+  },
+  {
+    "flavorId": "3",
+    "flavor": "#헬창입맛",
+    "description": "단백질 없이는 못살아. 닭가슴살! 컴온!!",
+    "goodCombi": "#아재입맛 #MZ입맛",
+    "badCombi": "초딩입맛 #할미입맛",
+    "images": "소떡소떡"
+  },
+  {
+    "flavorId": "4",
+    "flavor": "#MZ입맛",
+    "description": "단백질 없이는 못살아. 닭가슴살! 컴온!!",
+    "goodCombi": "#아재입맛 #MZ입맛",
+    "badCombi": "초딩입맛 #할미입맛",
+    "images": "햄버거"
+  },
+  {
+    "flavorId": "5",
+    "flavor": "#할미입맛",
+    "description": "단백질 없이는 못살아. 닭가슴살! 컴온!!",
+    "goodCombi": "#아재입맛 #MZ입맛",
+    "badCombi": "초딩입맛 #할미입맛",
+    "images": "김밥"
+  },
+  {
+    "flavorId": "6",
+    "flavor": "#베어그릴스입맛",
+    "description": "단백질 없이는 못살아. 닭가슴살! 컴온!!",
+    "goodCombi": "#모든입맛",
+    "badCombi": "없음",
+    "images": "크림빵"
+  }
+]
