@@ -41,28 +41,30 @@ const Worldcup = () => {
   }, [choice]);
 
   return (
-    <div className="bg-InGame w-360 h-800">
-      <div className="flex justify-center items-center pt-10 text-white">
-        당신의 선택은 ?
+    <div className="flex justify-center bg-purple-300 min-h-screen items-center">
+      <div className="bg-InGame w-[360px] h-[800px]">
+        <div className="flex justify-center items-center pt-10 text-white">
+          당신의 선택은 ?
+        </div>
+        <ProgressBar
+          className="pl-8 pt-7"
+          bgColor="#FFFF00"
+          completed={(count * 100) / 31}
+          labelSize="0"
+          height="10px"
+          width="91%"
+        />
+        <FoodCard
+          food={shuffleFood[choice]}
+          choice={choice}
+          onClickChoice={onClickChoice}
+        />
+        <FoodCard
+          food={shuffleFood[choice + 1]}
+          choice={choice + 1}
+          onClickChoice={onClickChoice}
+        />
       </div>
-      <ProgressBar
-        className="pl-8 pt-7"
-        bgColor="#FFFF00"
-        completed={(count * 100) / 31}
-        labelSize="0"
-        height="10px"
-        width="91%"
-      />
-      <FoodCard
-        food={shuffleFood[choice]}
-        choice={choice}
-        onClickChoice={onClickChoice}
-      />
-      <FoodCard
-        food={shuffleFood[choice + 1]}
-        choice={choice + 1}
-        onClickChoice={onClickChoice}
-      />
     </div>
   );
 };
