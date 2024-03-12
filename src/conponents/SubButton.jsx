@@ -10,7 +10,7 @@ export default function SubButton() {
   console.log(paramsNum);
 
   // 배포한 자신의 사이트
-  const realUrl = "https://matzip-ochre.vercel.app";
+  const realUrl = "https://matzipdao.vercel.app";
   // 로컬 주소 (localhost 3000 같은거)
   // const resultUrl = "http://localhost:3001/";
 
