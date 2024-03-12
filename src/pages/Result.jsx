@@ -26,7 +26,7 @@ export default function Result() {
             />
 
             <img
-              src={`${process.env.PUBLIC_URL}/images/${v.images}.jpeg`}
+              src={`${process.env.PUBLIC_URL}/images/${v.images}.png`}
               className="mt-36 w-[312px] h-[234px] z-20 rounded-3xl"
               alt="animals"
             ></img>
