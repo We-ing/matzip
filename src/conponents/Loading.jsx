@@ -3,7 +3,7 @@ import "./loadingPage.css";
 
 export default function Loading() {
     return (
-        <div className="bg-purple-300 min-h-screen flex flex-col justify-center items-center absolute">
+        <div className="bg-black min-h-screen flex flex-col justify-center items-center absolute">
             <div className="loader-wrapper bg-black  w-[360px] h-[800px] flex justify-center items-center">
                 <div className="packman ml-12"></div>
                 <div className="dots flex ml-8 mt-7 gap-5">
