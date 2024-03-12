@@ -59,7 +59,7 @@ export default function Result() {
             </div>
             <div className="z-2 w-[312px] h-[68px] mt-5 flex justify-center items-center">
               <div className="mr-8">
-                {/* <SubButton /> */}
+                <SubButton />
               </div>
               <SubButton2 />
             </div>
