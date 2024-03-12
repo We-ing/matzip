@@ -4,7 +4,8 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        background: "url('../public/images/logo192.png')",
+        // bg-InGame
+        InGame: "url('../public/images/BackgroundImg/bgImg.png')",
       },
     },
   },
