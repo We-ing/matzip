@@ -31,13 +31,13 @@ const Worldcup = () => {
 
   useEffect(() => console.log(nextRound), [nextRound]);
 
-  // 이미지 Preloading
-  useEffect(() => {
-    const img1 = new Image();
-    const img2 = new Image();
-    img1.src = `imagesFoodImg${shuffleFood[choice + 2].slice(0, -1)}.jpg`;
-    img2.src = `imagesFoodImg${shuffleFood[choice + 3].slice(0, -1)}.jpg`;
-  }, [count]);
+  //// 이미지 Preloading
+  // useEffect(() => {
+  //   const img1 = new Image();
+  //   const img2 = new Image();
+  //   img1.src = `imagesFoodImg${shuffleFood[choice + 2].slice(0, -1)}.jpg`;
+  //   img2.src = `imagesFoodImg${shuffleFood[choice + 3].slice(0, -1)}.jpg`;
+  // }, [count]);
 
   // 각 라운드 종료 후 state 초기화
   useEffect(() => {
