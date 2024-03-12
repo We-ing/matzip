@@ -45,7 +45,7 @@ const Worldcup = () => {
     }, [choice]);
 
     return round < 4 ? (
-        <div className="flex justify-center bg-purple-300 min-h-screen items-center">
+        <div className="flex justify-center bg-black min-h-screen items-center">
             <div className="bg-InGame w-[360px] h-[800px]">
                 <div className="flex justify-center items-center pt-10 text-white">
                     당신의 선택은 ?

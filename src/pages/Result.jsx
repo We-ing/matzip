@@ -12,7 +12,7 @@ export default function Result() {
   );
 
   return (
-    <div className="bg-purple-300 min-h-screen flex flex-col justify-center items-center">
+    <div className="bg-black min-h-screen flex flex-col justify-center items-center">
       {filteredItems.map((v, i) => {
         return (
           <div

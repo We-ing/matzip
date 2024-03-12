@@ -1,7 +1,5 @@
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-
-import { Link } from "react-router-dom";
 import "./animate.css";
 import StartButtons from "../conponents/StartButtons";
 import Loading from "../conponents/Loading";
@@ -30,7 +28,7 @@ export default function Main() {
     }, [showLoading, navigate]);
 
     return (
-        <div className="bg-purple-300 min-h-screen flex flex-col justify-center items-center">
+        <div className="bg-black min-h-screen flex flex-col justify-center items-center">
             <div className="relative w-[360px] h-[800px] flex flex-col justify-center items-center">
                 {!isButtonClicked && (
                     <>
