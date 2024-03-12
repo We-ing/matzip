@@ -2,7 +2,12 @@
 module.exports = {
   content: ["./src/**/*.{html,js,jsx,ts}"],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        // bg-InGame
+        InGame: "url('../public/images/BackgroundImg/bgImg.png')",
+      },
+    },
   },
   plugins: [],
 };
